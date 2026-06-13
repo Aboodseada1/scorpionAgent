@@ -2,7 +2,7 @@
   <img src="banner-final.png" alt="Scorpion Agent Banner" width="100%">
 </p>
 
-# Scorpion Agent
+# ScorpionAgent
 
 A highly intelligent, locally-hosted AI Voice Agent utilizing `llamacpp`, `whisper.cpp`, and `piper` for incredibly fast real-time interaction. It comes with a beautiful, dark-themed dashboard written in React (Vite + Tailwind CSS).
 
